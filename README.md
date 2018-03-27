@@ -1,5 +1,5 @@
 # Git tutorial
 -feature-A
 -fix-B
--feature-C
+-fea\ture-C
 
